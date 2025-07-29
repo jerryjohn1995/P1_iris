@@ -44,3 +44,5 @@ This project demonstrates a simple machine learning pipeline using **Logistic Re
 ```bash
 git clone https://github.com/your-username/P1_iris.git
 cd P1_iris
+
+delete this
