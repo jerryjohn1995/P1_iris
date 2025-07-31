@@ -40,7 +40,7 @@ This project demonstrates a simple machine learning pipeline using **Logistic Re
 ## 🖥️ How to Run
 
 1. Clone the repository:
-
+delete
 ```bash
 git clone https://github.com/your-username/P1_iris.git
 cd P1_iris
